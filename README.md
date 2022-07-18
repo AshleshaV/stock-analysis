@@ -9,24 +9,28 @@ Steve is happy with the work we prepared for the given data set, but it may take
 ##  Results
 When we ran the Initial analysis with the green_stocks .xlsm file the following run time was recordedas shown in the image.
 For the 2017 all stock data.
-![Greenstock 2017](![image](https://user-images.githubusercontent.com/96032051/179444308-7c671dc3-e033-424e-acb8-31d2035e599d.png)
+![Greenstock 2017](![image](https://user-images.githubusercontent.com/108908214/179444988-11e17f0f-a214-4415-bb81-37466d5eb651.png)
+
 
 
 
 For the 2018 all stock data.!
-![Green stock 2018](![image](https://user-images.githubusercontent.com/96032051/179444342-f859db3d-8d49-431a-814c-ec14391d1c06.png)
+![Green stock 2018]![image](https://user-images.githubusercontent.com/108908214/179445119-30c0e62c-8990-4293-910a-d2471044cb34.png)
+
 
 
 In this challenge, after refactoring the code script, the code ran in ran in 0.0625 seconds for the 2017 stock data as shown in the image
-![VBA_Challenge_2017](![image](https://user-images.githubusercontent.com/96032051/179444383-8f8634b6-8d3e-4cb2-9c7c-dd071c7e9129.png)
-)
+![VBA_Challenge_2017]![image](https://user-images.githubusercontent.com/108908214/179445020-4e144e75-b66f-40b1-9b75-b5b4cc9eb5da.png)
+
 
 
 
 
 The code ran in ran in 0.0859375 seconds for the 2018 stock dataas shown in the image
-![VBA_Challenge_2018](![image](https://user-images.githubusercontent.com/96032051/179444416-e571dce0-5da2-49fb-8e0d-170b5927d4a3.png)
-)
+![VBA_Challenge_2018]![image](https://user-images.githubusercontent.com/108908214/179445055-a557ff03-38ad-40d5-8ae6-9d966785339f.png)
+
+
+
 
 
 
