@@ -15,7 +15,8 @@ For the 2017 all stock data.
 
 
 For the 2018 all stock data.!
-![Green stock 2018]![image](https://user-images.githubusercontent.com/108908214/179445119-30c0e62c-8990-4293-910a-d2471044cb34.png)
+![Green stock 2018]![image](https://user-images.githubusercontent.com/108908214/179447391-d57d02b1-0d8c-45fa-b7e0-fe95392b93bb.png)
+
 
 
 
